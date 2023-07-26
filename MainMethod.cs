@@ -35,12 +35,15 @@ namespace TestingVS
             Console.WriteLine();
             Pattern1Star pattern=new Pattern1Star();
             pattern.Pattern1Main();
-            */
+            
             Console.WriteLine();
             StringPalindrome.PalinMain();
             
            // Console.WriteLine();
            // IsPrime.PrimeMain();
+            */
+            Console.WriteLine();
+            GithubPractice1.GitMain();
         }
 
        
